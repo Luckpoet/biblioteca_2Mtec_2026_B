@@ -132,5 +132,5 @@ Pull Request individual (veja a issue "Adicionar seu nome ao README").
 | Nome completo | Nick | Registro de matrícula |
 |---|---|---|
 | Lucas Cavalcante de Oliveira | Luckpoet | 10270 |
-| Vitor Samuel da SilvaAires | esmaelaires110709 | 10401 |
+| Vitor Samuel da Silva Aires | esmaelaires110709 | 10401 |
 | Linus Torvalds | linuxsouza | 40028 |
